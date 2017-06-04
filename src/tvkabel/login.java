@@ -13,6 +13,7 @@ import javax.swing.JOptionPane;
 /**
  *
  * @author balinux
+ * link REFERENSI login JAVA http://www.kangsunu.web.id/2015/05/cara-membuat-menu-login-di-java-dengan-db-mysql.html
  */
 public class login extends javax.swing.JFrame {
 
